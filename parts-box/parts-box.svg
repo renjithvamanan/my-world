@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.355"
-     inkscape:cx="1729.1791"
-     inkscape:cy="649.22623"
+     inkscape:zoom="0.67954657"
+     inkscape:cx="367.07797"
+     inkscape:cy="3499.2116"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -41,14 +41,16 @@
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:pagecheckerboard="false">
+     inkscape:pagecheckerboard="false"
+     inkscape:measure-start="37.7953,4365.35"
+     inkscape:measure-end="37.7953,4214.17">
     <inkscape:grid
        type="xygrid"
        id="grid2161"
        units="mm"
        spacingx="0.99999999"
        spacingy="0.99999999"
-       empspacing="4"
+       empspacing="5"
        empcolor="#3f3f10"
        empopacity="0.25098039"
        color="#3fe59a"
@@ -72,26 +74,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,703)">
-    <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:#ff0000;stroke-width:0.00999965;stroke-miterlimit:5.92000008;stroke-dasharray:none;stroke-opacity:1"
-       id="rect2163"
-       width="499.98999"
-       height="199.99001"
-       x="0.0049998248"
-       y="97.004997" />
-    <rect
-       style="fill:#800000;fill-opacity:1;stroke:#ff0000;stroke-width:0.03151305;stroke-miterlimit:5.92000008;stroke-dasharray:none;stroke-opacity:1"
-       id="rect2165"
-       width="4.9684868"
-       height="49.968487"
-       x="8.0315132"
-       y="-695" />
-    <rect
-       style="fill:#800000;fill-opacity:1;stroke:#ff0000;stroke-width:0.03151305;stroke-miterlimit:5.92000008;stroke-dasharray:none;stroke-opacity:1"
-       id="rect2165-2"
-       width="4.9684868"
-       height="49.968487"
-       x="21"
-       y="-592" />
+    <path
+       style="fill:#008000;fill-opacity:1;stroke:#ff0000;stroke-width:0.03779395;stroke-miterlimit:5.92000008;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0 0 L 0 56.693359 L -18.84375 56.693359 L -18.84375 132.23047 L 0 132.23047 L 0 245.72266 L -18.84375 245.72266 L -18.84375 321.25977 L 0 321.25977 L 0 434.69922 L -18.84375 434.69922 L -18.84375 510.23633 L 0 510.23633 L 0 623.62109 L -18.84375 623.62109 L -18.84375 699.16016 L 0 699.16016 L 0 755.86719 L 1889.7266 755.86719 L 1889.7266 699.21289 L 1908.6074 699.21289 L 1908.6074 623.67578 L 1889.7266 623.67578 L 1889.7266 510.28906 L 1908.6074 510.28906 L 1908.6074 434.75195 L 1889.7266 434.75195 L 1889.7266 321.3125 L 1908.6074 321.3125 L 1908.6074 245.77539 L 1889.7266 245.77539 L 1889.7266 132.2832 L 1908.6074 132.2832 L 1908.6074 56.746094 L 1889.7266 56.746094 L 1889.7266 0 L 0 0 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,-703)"
+       id="rect2163" />
   </g>
 </svg>
